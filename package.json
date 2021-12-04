@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/a-breezy/README-Generator/issues"
   },
-  "homepage": "https://github.com/a-breezy/README-Generator#readme"
+  "homepage": "https://github.com/a-breezy/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
