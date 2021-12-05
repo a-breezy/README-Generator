@@ -90,7 +90,7 @@ const questions = [
 	{
 		type: "input",
 		name: "usage",
-		message: "Provide instructions and examples for use.",
+		message: "Provide instructions and examples for use",
 	},
 	{
 		type: "list",
@@ -103,7 +103,7 @@ const questions = [
 		type: "input",
 		name: "collaborators",
 		message:
-			"List your collaborators, if any, with links to their GitHub profiles.",
+			"List your collaborators, if any, with links to their GitHub profiles",
 		default: "None",
 	},
 	{
