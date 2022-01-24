@@ -23,9 +23,9 @@ Open integrated terminal where the readme generator is located. Type 'node index
 ---
 ## Usage
 
-![Usage 1](/img/screenShot1.png "Screen Shot 1")*How to Start the Application*
+![Usage 1](./img/screenShot1.png "Screen Shot 1")*How to Start the Application*
 
-![Usage 2](/img/screenShot2.png "Screen Shot 2")*Completing all Information Fields*
+![Usage 2](./img/screenShot2.png "Screen Shot 2")*Completing all Information Fields*
 
 [Link To Video Example](https://drive.google.com/file/d/1epyjdke963435rjnQyuy51sHhGh96kmu/view?usp=sharing)
 
